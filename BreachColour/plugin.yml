@@ -1,0 +1,9 @@
+name: "BreachColour"
+main: me.mrten.breachcolour.BreachColour
+author: Mrten
+version: "1.0-SNAPSHOT"
+prefix: "BreachColour"
+depend: [MrtenAPI]
+commands:
+  chatcolor:
+    description: Colour command.
